@@ -50,8 +50,8 @@ Welcome to my GitHub profile! I specialize in **cloud infrastructure automation,
 ## 🏆 Certifications & Achievements
 - AWS Training Graduate – Accenture AWS Redshift Program  
 - Delivered internal sessions on GitLab workflows, API testing, and infrastructure automation  
+- **Certifications:** AZ-400 (Microsoft DevOps Engineer), AZ-500 (Microsoft Security Engineer), GH-300 (GitHub Copilot)
 
----
 
 ## 📫 Connect with Me
 - **Email:** bhavyareddysatti6@gmail.com  
