@@ -1,41 +1,76 @@
-Hi, I'm Bhavya Sri 👋
+# Hi there, I'm Bhavya Sri 👋
 
-Associate Software Engineer at Accenture
+## About Me
 
-AWS Certified Developer – Associate
+I'm an Associate Software Engineer at Accenture with experience in cloud engineering, Python automation, and enterprise application support within the insurance domain.
 
-I enjoy building cloud-native applications using AWS, Python, FastAPI, Docker and Infrastructure as Code.
+I'm passionate about building cloud-native applications using AWS, Python, FastAPI, Docker, and Infrastructure as Code. I enjoy solving real-world problems through automation, scalable backend systems, and modern cloud technologies.
 
-My interests include
+---
 
-• AWS Cloud Engineering
-• Backend Development
-• Python Automation
-• DevOps
-• Serverless Applications
-• Cloud Infrastructure
+## 🚀 Technical Skills
 
-Technical Skills
+### ☁️ Cloud
 
-☁️ AWS
-🐍 Python
-⚡ FastAPI
-🐳 Docker
-🌍 Terraform
-🔧 GitHub Actions
+* AWS EC2
+* Amazon S3
+* AWS Lambda
+* IAM
+* API Gateway
+* Amazon CloudWatch
+* Amazon SNS
+* Amazon Redshift
+* Amazon RDS
+* AWS Glue
+* Amazon VPC
 
-Projects
+### 🐍 Programming
 
-• HiveMind – Enterprise Agentic AI Knowledge Platform
-• WhatsApp Bulk Messaging Automation
+* Python
+* Object-Oriented Programming (OOP)
+* Data Structures & Algorithms (DSA)
 
-Certifications
+### ⚡ Backend Development
 
-✔ AWS Certified Developer – Associate
-✔ AWS Certified Cloud Practitioner
-✔ GitHub Copilot Certification
+* FastAPI
+* REST APIs
+* Serverless Architecture
+* Microservices
 
-Connect
+### 🛠 DevOps & Tools
 
-LinkedIn- https://www.linkedin.com/in/sattibhavyasri/
-Email- bhavyareddysatti6@gmail.com
+* Terraform
+* Docker
+* Git
+* GitHub
+* GitHub Actions
+* CI/CD
+
+---
+
+## 📌 Featured Projects
+
+### 🧠 HiveMind – Enterprise Agentic AI Knowledge Platform
+
+An AI-powered enterprise knowledge platform that leverages Digital Twins, Agentic AI, FastAPI, AWS, Docker, and Retrieval-Augmented Generation (RAG) to preserve and retrieve organizational knowledge.
+
+### 💬 WhatsApp Bulk Messaging Automation
+
+A Python automation tool built with Selenium WebDriver, Docker, and GitHub Actions to automate bulk WhatsApp messaging with logging, retry mechanisms, and configuration management.
+
+---
+
+## 🏆 Certifications
+
+* AWS Certified Developer – Associate
+* AWS Certified Cloud Practitioner
+* GitHub Copilot Certification
+
+---
+
+## 📫 Connect with Me
+
+* **LinkedIn:** https://linkedin.com/in/sattibhavyasri
+* **Email:** [bhavyareddysatti6@gmail.com](mailto:bhavyareddysatti6@gmail.com)
+
+Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
