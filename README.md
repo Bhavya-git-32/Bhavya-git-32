@@ -1,63 +1,41 @@
-# Hi, I’m Bhavyasri Satti 👋
+Hi, I'm Bhavya Sri 👋
 
-**Assistant Software Engineer | AWS & DevOps Enthusiast | Python Developer**
+Associate Software Engineer at Accenture
 
-Welcome to my GitHub profile! I specialize in **cloud infrastructure automation, backend API development, and CI/CD pipelines** using AWS, Terraform, and Python. I’m passionate about building **efficient, scalable, and reliable systems**.
+AWS Certified Developer – Associate
 
----
+I enjoy building cloud-native applications using AWS, Python, FastAPI, Docker and Infrastructure as Code.
 
-## 🔧 Skills & Technologies
+My interests include
 
-**Programming Languages:** Python, SQL  
-**Cloud & DevOps:** AWS (EC2, S3, IAM, Lambda, CloudWatch, RDS), Terraform, CI/CD (GitLab)  
-**Database Management:** AWS RDS, DynamoDB (NoSQL), Redshift (PostgreSQL)  
-**API & Automation:** REST APIs, API Testing (Bruno, Insomnia), Automation Scripts  
-**Tools & Frameworks:** Git, GitHub, Docker (basic), Threading/Concurrency in Python  
+• AWS Cloud Engineering
+• Backend Development
+• Python Automation
+• DevOps
+• Serverless Applications
+• Cloud Infrastructure
 
----
+Technical Skills
 
-## 💼 Experience
+☁️ AWS
+🐍 Python
+⚡ FastAPI
+🐳 Docker
+🌍 Terraform
+🔧 GitHub Actions
 
-**Assistant Software Engineer** – Accenture | Nov 2023 – Present  
-- Automated AWS cloud infrastructure provisioning (EC2, S3, IAM) using Terraform.  
-- Implemented CI/CD pipelines with GitLab for seamless deployments.  
-- Refactored backend API authentication protocols to support both **Bearer** and **Basic Authentication**, reducing latency by 30%.  
-- Optimized CloudWatch logging to improve monitoring and reduce noise.  
-- Conducted end-to-end API testing using Bruno and validated database entries in AWS RDS.  
-- Delivered internal training sessions on GitLab workflows, API testing, and infrastructure setup.  
+Projects
 
----
+• HiveMind – Enterprise Agentic AI Knowledge Platform
+• WhatsApp Bulk Messaging Automation
 
-## 📂 Projects
+Certifications
 
-### **Automated Bulk WhatsApp Messaging Tool**
-- **Description:** Python automation tool to send WhatsApp messages to up to **150 recipients simultaneously**.  
-- **Technologies:** Python, Selenium / pywhatkit, Threading/Concurrency  
-- **Repository:** [GitHub Link](https://github.com/Bhavya-git-32/Project)  
+✔ AWS Certified Developer – Associate
+✔ AWS Certified Cloud Practitioner
+✔ GitHub Copilot Certification
 
-*More projects will be added soon as I continue building my portfolio.*
+Connect
 
----
-
-## 🎓 Education
-
-- **B.Tech in Computer Science Engineering** – Bharath University (2019-2023)  
-- **Higher Secondary** – Narayana Junior College, 97% (2017-2019)  
-- **Secondary** – Narayana English Medium School, 10 GPA (2017)  
-
----
-
-## 🏆 Certifications & Achievements
-- AWS Training Graduate – Accenture AWS Redshift Program  
-- Delivered internal sessions on GitLab workflows, API testing, and infrastructure automation  
-- **Certifications:** AZ-400 (Microsoft DevOps Engineer), AZ-500 (Microsoft Security Engineer), GH-300 (GitHub Copilot)
-
-
-## 📫 Connect with Me
-- **Email:** bhavyareddysatti6@gmail.com  
-- **LinkedIn:** [Profile Link](https://www.linkedin.com/in/bhavyasri-satti)  
-- **GitHub:** [Bhavya-git-32](https://github.com/Bhavya-git-32)  
-
----
-
-> “Passionate about building reliable and scalable cloud solutions while continuously learning new technologies.”  
+LinkedIn- https://www.linkedin.com/in/sattibhavyasri/
+Email- bhavyareddysatti6@gmail.com
